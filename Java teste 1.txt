@@ -1,0 +1,7 @@
+<script>
+    autor= "Victor Leinad"
+    aula= "Pa"
+    professor="Professora Cintia"
+    document.write("<b>"+autor+"<b><br>")
+    document.write("<b>Aula de "+aula+"essa materia é ministrada pela"+professor+ "</b>")
+</script
